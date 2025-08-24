@@ -5,4 +5,4 @@
 Have a look at my progress 😉
 
 
-![Progress](./Progress.png)
+![Progress](./Progress_2.png)
